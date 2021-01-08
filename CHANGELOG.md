@@ -8,6 +8,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Released]
 
+## [0.1.3] - 2021-01-08
+### Added
+- package-lock file
+- node modules
+```
+npm i
+
+```
+
 ## [0.1.0] - 2021-01-07
 ### Added
 - This CHANGELOG file
