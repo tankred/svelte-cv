@@ -1,8 +1,4 @@
-*Looking for a shareable component template? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
-
----
-
-# svelte app
+# Svelte app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
@@ -13,7 +9,7 @@ npx degit sveltejs/template svelte-app
 cd svelte-app
 ```
 
-*Note that you will need to have [Node.js](https://nodejs.org) installed.*
+Note that you will need to have [Node.js](https://nodejs.org) installed. 
 
 
 ## Get started
@@ -52,7 +48,7 @@ You can run the newly built app with `npm run start`. This uses [sirv](https://g
 
 By default, sirv will only respond to requests that match files in `public`. This is to maximise compatibility with static fileservers, allowing you to deploy your app anywhere.
 
-If you're building a single-page app (SPA) with multiple routes, sirv needs to be able to respond to requests for *any* path. You can make it so by editing the `"start"` command in package.json:
+If you're building a single-page app (SPA) with multiple routes, sirv needs to be able to respond to requests for any path. You can make it so by editing the `"start"` command in package.json:
 
 ```js
 "start": "sirv public --single"
