@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.0] - 2021-01-12
+### Added
+- Add component CV 
+
+## [Released]
+
 ## [0.1.4] - 2021-01-11
 ### Changed
 - Live reload: check
@@ -14,8 +20,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 npm run dev
 
 ```
-
-## [Released]
 
 ## [0.1.3] - 2021-01-08
 ### Added

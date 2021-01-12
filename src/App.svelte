@@ -1,3 +1,5 @@
+import CV from './CV.svelte'
+
 <script>
 	export let name;
 </script>
