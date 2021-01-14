@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.2] - 2021-01-14
+### Changed
+- Add a for loop (list) 
+
 ## [0.2.1] - 2021-01-13
 ### Changed
 - Add props
