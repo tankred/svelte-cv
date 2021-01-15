@@ -10,8 +10,12 @@
         level: 5
       },
       {
-        name: 'JavaScript',
+        name: 'Javascript',
         level: 5
+      },
+      {
+        name: 'Security',
+        level: 3
       }
     ]
   }

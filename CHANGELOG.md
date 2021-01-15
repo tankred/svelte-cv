@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.3] - 2021-01-15
+### Changed
+- Add IF ELSE conditionals
+
 ## [0.2.2] - 2021-01-14
 ### Changed
 - Add a for loop (list) 
