@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.5] - 2021-01-19
+### Changed
+- Add a skill input form
+
 ## [0.2.4] - 2021-01-18
 ### Added
 - Add Http demo
