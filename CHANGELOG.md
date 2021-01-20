@@ -6,6 +6,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.2.6] - 2021-01-20
+### Changed
+- Broadcast skills 
+
 ## [0.2.5] - 2021-01-19
 ### Changed
 - Add a skill input form
