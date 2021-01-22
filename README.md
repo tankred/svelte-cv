@@ -110,7 +110,7 @@ Tankred
 
 ## License
 
-Add link to license file for details
+[GNU AFFERO GENERAL PUBLIC LICENSE Version 3](LICENSE.md)
 
 ## Acknowledgments
 
