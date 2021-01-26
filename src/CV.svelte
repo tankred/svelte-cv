@@ -1,11 +1,9 @@
 <script>
   import { createEventDispatcher } from 'svelte';
- export let title = 'MC'
- export let person
+  export let title = 'MC'
+  export let person
 
-const dispatch = createEventDispatcher();
-
-  
+  const dispatch = createEventDispatcher();
 
 
   let newSkill = 'ps';
@@ -26,13 +24,13 @@ const dispatch = createEventDispatcher();
 {#each person.skills as skill}
   <div>Skill: {skill.name} 
      Level: {skill.level}
-    {#if skill.level == 5}
-    REALLY GOOD
-    {:else if skill.level == 4}
-    GOOD
-    {:else}
-    DECENT
-    {/if}
+     {#if skill.level >= 5}
+       REALLY GOOD
+     {:else if skill.level == 4}
+       GOOD
+     {:else}
+       DECENT
+     {/if}
   </div>
 {/each}
 

@@ -3,13 +3,11 @@
   import CV from './CV.svelte'
   import HttpDemo from './HttpDemo.svelte'
 
-  export let name;
-  
 
-function handleNewSkill(newSkill) {
-  const { detail: { skill, level } } = newSkill;
-  person.skills = [...person.skills, { name: skill, level }];
-}
+  function handleNewSkill(newSkill) {
+    const { detail: { skill, level } } = newSkill;
+    person.skills = [...person.skills, { name: skill, level }];
+  }
 
   let person = {
     name: 'Tankred',
@@ -36,8 +34,6 @@ function handleNewSkill(newSkill) {
 	<h1>Hello {person.name}!</h1>
 	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
 	<HttpDemo /> 
-
-
 </main>
 
 <style>
