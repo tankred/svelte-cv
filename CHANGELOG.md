@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released]
+
+## [0.3.0] - 2021-01-27
+### Changed
+- Build and publish live lab
+
 ## [0.2.8] - 2021-01-26
 ### Changed
 - Fix bug max int in skill level eq 5
@@ -41,8 +47,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.2.0] - 2021-01-12
 ### Added
 - Add component CV 
-
-## [Released]
 
 ## [0.1.4] - 2021-01-11
 ### Changed
