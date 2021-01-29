@@ -100,9 +100,13 @@ npm run build
 surge public my-project.surge.sh
 ```
 
+### LAB sample
+
+[explore basics](https://miccaman.neocities.org/content/sv-lab/)
+
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tankred/svelte-cv/tags).
 
 ## Authors
 
@@ -116,5 +120,5 @@ Tankred
 
 * Hat tip to anyone whose code was used
 
-read : https://dev.to/itnext/how-you-can-learn-to-use-svelte-for-your-next-js-project-3k8h
-https://svelte.dev/tutorial/congratulations
+* [Learn to use svelte for you next project](https://dev.to/itnext/how-you-can-learn-to-use-svelte-for-your-next-js-project-3k8h)
+* [Svelte dev tut](https://svelte.dev/tutorial/congratulations)
